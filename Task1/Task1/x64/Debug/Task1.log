@@ -1,0 +1,4 @@
+﻿  Source.cpp
+\Source.cpp(1,1): error C1083: Не удается открыть файл источник: Source.cpp: No such file or directory,
+  (компиляция исходного файла "/Source.cpp")
+  

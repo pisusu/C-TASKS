@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Task4\\x64\\Debug\\Task4.obj",
+            "outputs": [
+                "Task4\\x64\\Debug\\Task4.cpp.obj.dt.module.json",
+                "Task4\\x64\\Debug\\Task4.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
